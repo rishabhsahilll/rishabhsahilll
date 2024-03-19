@@ -19,7 +19,7 @@ let skills = {
 ```
 
 <p align="center">
-    <a href="https://rishabhsahilll.github.io/rishabh-search-engine/portfolio" alt="Portfolio">
+    <a href="https://rishabhsahilll.github.io/portfolio" alt="Portfolio">
         <img src="https://img.shields.io/badge/Portfolio-RISHABH-brightgreen.svg" />
     </a>&emsp;
     <a href="https://www.instagram.com/ll._rsy_.ll/" alt="Instagram">
