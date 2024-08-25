@@ -1,5 +1,5 @@
 ## Hi there 👋 :pray: 
-I’m <b>[RISHABH SAHIL](https://www.instagram.com/rishabhsahil.py)</b>. I am a <b>Full Stack Developer</b> from India :india:. I have <b>3+ years</b> of experience working in the software engineering domain. I have contributed to open source projects like <b><a href="https://rishabhsahilll.github.io/rishabh-search-engine/">RISHABH SEARCH ENGINE</a></b>, <b><a href="https://github.com/rishabhsahilll/AI-Jarvis-Connect-ChatGpt-And-EdgeGpt-4">A.I Personal Assistant</a></b>, <b><a href="https://github.com/rishabhsahilll/WhatsApp-ChatGpt-Bot">WhatsApp A.I Bot ChatGpt Java</a></b>.
+I’m <b>[RISHABH SAHIL](https://www.instagram.com/rishabhsahill)</b>. I am a <b>Full Stack Developer</b> from India :india:. I have <b>3+ years</b> of experience working in the software engineering domain. I have contributed to open source projects like <b><a href="https://rishabhsahilll.github.io/rishabh-search-engine/">RISHABH SEARCH ENGINE</a></b>, <b><a href="https://github.com/rishabhsahilll/AI-Jarvis-Connect-ChatGpt-And-EdgeGpt-4">A.I Personal Assistant</a></b>, <b><a href="https://github.com/rishabhsahilll/WhatsApp-ChatGpt-Bot">WhatsApp A.I Bot ChatGpt Java</a></b>.
 
 ## My Skills
 ```js
@@ -22,7 +22,7 @@ let skills = {
     <a href="https://portfolio-flask-application.vercel.app" alt="Portfolio">
         <img src="https://img.shields.io/badge/Portfolio-RISHABH-brightgreen.svg" />
     </a>&emsp;
-    <a href="https://www.instagram.com/rishabhsahil.py/" alt="Instagram">
+    <a href="https://www.instagram.com/rishabhsahill/" alt="Instagram">
         <img src="https://img.shields.io/badge/-Rishabh Kumar-blue?style=social&logo=Instagram&logoColor=red"  />
     </a>&emsp;
       <a href="https://www.facebook.com/Rishabh.Sahil.RS" alt="Facebook">
