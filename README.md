@@ -27,7 +27,7 @@ let skills = {
     <a href="https://www.instagram.com/rishabhsahill/" alt="Instagram">
         <img src="https://img.shields.io/badge/-Rishabh Kumar-blue?style=social&logo=Instagram&logoColor=red"  />
     </a>&emsp;
-      <a href="https://www.facebook.com/Rishabh.Sahil.RS" alt="Facebook">
+      <a href="https://www.facebook.com/rishabhsahill" alt="Facebook">
         <img src="https://img.shields.io/badge/-Rishabh Kumar-blue?style=social&logo=Facebook&logoColor=blue"  />
     </a>&emsp;
     <a href="mailto:githubsahil4+git@gmail.com" alt="LinkedIn">
