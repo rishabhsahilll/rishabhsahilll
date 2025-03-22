@@ -21,7 +21,7 @@ let skills = {
 ```
 
 <p align="center">
-    <a href="https://portfolio-flask-application.vercel.app" alt="Portfolio">
+    <a href="https://rishabhsahil.vercel.app/" alt="Portfolio">
         <img src="https://img.shields.io/badge/Portfolio-RISHABH-brightgreen.svg" />
     </a>&emsp;
     <a href="https://www.instagram.com/rishabhsahill/" alt="Instagram">
