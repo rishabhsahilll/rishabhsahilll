@@ -1,6 +1,4 @@
 ## Hi there @rishabhsahilll👋
-I’m . I am a  from India :india:. I have <b>3+ years</b> of experience working in the software engineering domain. I have contributed to open source projects like <b><a href="https://rishabhsahilll.github.io/rishabh-search-engine/">RISHABH SEARCH ENGINE</a></b>, <b><a href="https://github.com/rishabhsahilll/AI-Jarvis-Connect-ChatGpt-And-EdgeGpt-4">A.I Personal Assistant</a></b>, <b><a href="https://github.com/rishabhsahilll/AI-Jarvis-WhatsApp-Bot">AI Jarvis WhatsApp Bot (Java)</a></b>.
-
 
 👋 Hi there! I’m <b>[RISHABH SAHIL](https://www.instagram.com/rishabhsahill)</b>, a <b>Full Stack Developer</b> from India :india: with more than <b>4 years</b> of experience in building web applications, backend systems, and AI-based tools.
 
