@@ -1,5 +1,23 @@
 ## Hi there @rishabhsahilll👋
-I’m <b>[RISHABH SAHIL](https://www.instagram.com/rishabhsahill)</b>. I am a <b>Full Stack Developer</b> from India :india:. I have <b>3+ years</b> of experience working in the software engineering domain. I have contributed to open source projects like <b><a href="https://rishabhsahilll.github.io/rishabh-search-engine/">RISHABH SEARCH ENGINE</a></b>, <b><a href="https://github.com/rishabhsahilll/AI-Jarvis-Connect-ChatGpt-And-EdgeGpt-4">A.I Personal Assistant</a></b>, <b><a href="https://github.com/rishabhsahilll/AI-Jarvis-WhatsApp-Bot">AI Jarvis WhatsApp Bot (Java)</a></b>.
+I’m . I am a  from India :india:. I have <b>3+ years</b> of experience working in the software engineering domain. I have contributed to open source projects like <b><a href="https://rishabhsahilll.github.io/rishabh-search-engine/">RISHABH SEARCH ENGINE</a></b>, <b><a href="https://github.com/rishabhsahilll/AI-Jarvis-Connect-ChatGpt-And-EdgeGpt-4">A.I Personal Assistant</a></b>, <b><a href="https://github.com/rishabhsahilll/AI-Jarvis-WhatsApp-Bot">AI Jarvis WhatsApp Bot (Java)</a></b>.
+
+
+👋 Hi there! I’m <b>[RISHABH SAHIL](https://www.instagram.com/rishabhsahill)</b>, a <b>Full Stack Developer</b> from India :india: with more than <b>4 years</b> of experience in building web applications, backend systems, and AI-based tools.
+
+I love creating solutions that make a real difference.
+
+Some of my open-source contributions include:
+
+<b><a href="https://rishabhsahilll.github.io/rishabh-search-engine/">RISHABH SEARCH ENGINE</a></b> — A lightweight and fast search engine.
+
+<b><a href="https://github.com/rishabhsahilll/AI-Jarvis-Connect-ChatGpt-And-EdgeGpt-4">A.I Personal Assistant</a></b> — An assistant that helps automate everyday tasks.
+
+<b><a href="https://github.com/rishabhsahilll/AI-Jarvis-WhatsApp-Bot">AI Jarvis WhatsApp Bot (Java)</a></b> — A smart bot for WhatsApp users, developed in Java.
+
+I’m passionate about coding, open-source, and continuous learning.
+Always exploring new technologies and new ways to solve problems!
+
+<b>"Technology is my life." 🚀</b>
 
 [![rishabhsahilll's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabhsahilll&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
